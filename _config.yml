@@ -20,6 +20,8 @@ url: "https://just-the-docs.github.io" # the base hostname & protocol for your s
 
 permalink: pretty
 
+theme: just-the-docs
+
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/
